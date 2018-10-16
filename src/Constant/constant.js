@@ -1,0 +1,7 @@
+const actionTypes={
+  ADD_MESSAGE:'ADD_MESSAGE',
+  ADD_USER:'ADD_USER',
+  MESSAGE_RECEIVED:'MESSAGE_RECEIVED',
+  USERS_LIST:'USERS_LIST'
+}
+export default actionTypes;

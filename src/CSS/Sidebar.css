@@ -1,0 +1,19 @@
+.sideBar{
+  /* padding-left:0px; */
+  list-style: none;
+
+  z-index: 1;
+  /* position:absolute; */
+  /* overflow-y: hidden; */
+  background: #2C3E50;
+}
+
+.sideBar li{
+  text-decoration: none;
+  display: block;
+  line-height: 60px;
+  color: white;
+}
+.sideBar li:hover{
+  background: #16A085;
+}
